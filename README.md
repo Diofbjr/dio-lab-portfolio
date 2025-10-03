@@ -1,25 +1,58 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Construindo seu Portfólio Front-end do Zero</span>
-</h1>
+📖 README - Portfólio Elidiana Andrade
+🎯 Sobre o Projeto
+Este projeto representa uma reimaginação completa do design original do portfólio da desenvolvedora front-end Elidiana Andrade. O portfólio original, disponível em https://github.com/elidianaandrade/dio-lab-portfolio, foi completamente redesenhado e reconstruído com uma abordagem moderna e inovadora.
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
+✨ O Que Foi Reimaginado
+🎨 Design Visual
+Sistema de temas completo (claro/escuro) com transições suaves
 
-[![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24) 
-[![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24)
+Design glassmorphism com efeitos de vidro translúcido
 
-## Objetivo
-Construir seu Primeiro Portfólio Front-end do Zero.
+Paleta de cores renovada com melhor contraste e acessibilidade
 
-## Tecnologias
-[![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
-[![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E94D5F)]() 
-[![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
-[![Figma](https://img.shields.io/badge/Protótipo%20no%20Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F)](https://www.figma.com/file/NkndT2SbyHJZWLEsaM8Xn3/DIO-Lab-Portf%C3%B3lio)
+Tipografia refinada usando a fonte Inter para melhor legibilidade
 
-## Desafio: Portfólio Front-end
-Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, visualmente atraente e responsivo. Sinta-se livre para utilizar as tecnologias que desejar e expressar sua personalidade e estilo através do design e dos elementos interativos do seu portfólio. Após concluir, você pode hospedá-lo em uma plataforma de sua escolha, como GitHub Pages, Netlify, Vercel, etc.
+Layout responsivo otimizado para todos os dispositivos
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+🚀 Funcionalidades Técnicas
+Navegação por single-page com scroll suave entre seções
+
+Menu mobile interativo com acessibilidade completa
+
+Acordeões expansíveis na seção "Sobre"
+
+Sistema de persistência de tema preferido do usuário
+
+Otimizações de performance e carregamento
+
+📱 Estrutura do Site
+Hero Section com call-to-action e links sociais
+
+Seção de Projetos com cards interativos e tecnologias
+
+Sobre Mim com informações profissionais e acadêmicas
+
+Contato com links diretos para email e redes sociais
+
+🛠 Tecnologias Utilizadas
+HTML5 semântico com acessibilidade (ARIA)
+
+CSS3 moderno com variáveis customizadas e grid/flexbox
+
+JavaScript vanilla para interatividade
+
+Bootstrap Icons para ícones consistentes
+
+Design System próprio com tokens de design
+
+🌟 Destaques da Recriação
+Acessibilidade First - Navegação por teclado, labels ARIA, contraste adequado
+
+Performance Otimizada - Código limpo, carregamento eficiente
+
+Experiência do Usuário - Transições suaves, feedback visual claro
+
+Código Manutenível - Estrutura modular e bem documentada
+
+🎯 Objetivo Educacional
+Este projeto foi desenvolvido como parte do Lab da Digital Innovation One, demonstrando boas práticas de desenvolvimento front-end, design system e experiência do usuário.
